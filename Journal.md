@@ -11,3 +11,5 @@ of transistor would be inappropriate?; these are all questions i had.
 June 27
 This was a great attempt (at the time), i was trying to make a spark gap and i added an LED cause i saw a lot of videos of people waving LEDs at the top of their Tesla coils
 ![](images/image-1782595347014.jpg)
+This was the second iteration, (albeit more clearer). I really cant say why i added a lot of the stuff here like the AC and others, i just kept reviewing diagrams online and thought it would be a nice addition
+![]()
