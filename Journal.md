@@ -25,7 +25,7 @@ I didnt quite record this part, but i spent the next few days doing footprints a
 
 July 4
 This was a really exciting day cause i did the PCB design and generated the gerber files. By the way, the formatting i used for the gerber files are for JPCLB not PCB way (did this under the guidance of a tutorial). This was really fun to do. I am really proud of it and i was able to not cross any Design Rules
-![]()
+![](images/image-1783172710236.jpg)
 ![]()
 The two pin terminal as you can see where intended for the external parts i was going to list on the BOM.
 
