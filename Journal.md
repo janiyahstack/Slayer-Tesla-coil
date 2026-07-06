@@ -16,4 +16,6 @@ This was the second iteration, (albeit more clearer). I really cant say why i ad
 
 June 29
 I finally concluded on my Schematic. I decided to use a feedback coil instead of the spark gap i had been trying to implement. I also decided to remove the LED and AC and just stick with the capacitor and stuff, so yeah, now i have 3 coils. I also replaced the global label with a no connection label because it kept popping up in my Electric Rules Checker and i didnt want any errors
+![](images/Screenshot (341).png)
+I did one more iteration and viola!. The real schematic is definetly more clearer.
 ![]()
