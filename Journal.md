@@ -12,4 +12,8 @@ June 27
 This was a great attempt (at the time), i was trying to make a spark gap and i added an LED cause i saw a lot of videos of people waving LEDs at the top of their Tesla coils
 ![](images/image-1782595347014.jpg)
 This was the second iteration, (albeit more clearer). I really cant say why i added a lot of the stuff here like the AC and others, i just kept reviewing diagrams online and thought it would be a nice addition
+![](images/Screenshot (342).png)
+
+June 29
+I finally concluded on my Schematic. I decided to use a feedback coil instead of the spark gap i had been trying to implement. I also decided to remove the LED and AC and just stick with the capacitor and stuff, so yeah, now i have 3 coils. I also replaced the global label with a no connection label because it kept popping up in my Electric Rules Checker and i didnt want any errors
 ![]()
