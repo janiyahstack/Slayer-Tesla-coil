@@ -3,4 +3,5 @@ A slayer Excited Tesla coil is a low power solid state tesla coil. A tesla coil 
 I was most inspired to make a Tesla coil by one of my fellow hack clubbers (whose name i cant remember), who made me realize that a tesla coil was quite achievable to make and design. i have been interested in it for a while and it was fun to do.
 I built this by first understanding the physics behind a Tesla coil; electromagnetic induction. Then i made a schematic , i read more which led to consequential iterations of the schematic. I did the footprints assignments using Mouser Electronics and eventually updated my footprint library. i concluded by making the PCB(some of the parts are external tho) and viola!!
 ![](images/Screenshot(344).png)
+![](images/Screenshot (347).png)
 
