@@ -5,3 +5,22 @@ I built this by first understanding the physics behind a Tesla coil; electromagn
 ![](images/Screenshot(344).png)
 ![](images/Screenshot(347).png)
 
+
+Reference	QTY	 Component	          Value	      Notes	      Estimated Prices																				
+Q2	       1	NPN Power Transistor	TIP31C	TO-220 Package	$1.10 per 10pcs																				
+R2	       1	Resistor	             1kohms	   Axial	       Available																				
+C1	       1	Ceramic Capacitor	     100nF,50v	Radial	    $1.10 per 10pcs																				
+D2	       1	Diode	                 BAV16W	  Fast switching	$0.86 for 20pcs																				
+L1	       1	Primary coil	        4 turns, 0.8mm magnet wire	$2.80																				
+L2	1	Secondary coil	25 turns, 0.2mm magnet wire	Custom wound	$1.10																				
+L3	1	Feedback coil	3 turns, 0.6mm magnet wire	Cusom wound	$1.10																				
+BT1	1	Power supply	12V DC	DC Adapter	$1.10																				
+2 pin screw terminal	1	2-pin screw terminal	2-pin screw terminal	Power input	$1.23																				
+Perf Board	1	Perfboard	7*9cm protoboard	Circuit Assembly	$1.10																				
+Solder iron	1	Solder Iron	USB or mains powered	Required tool	$6.96																				
+PVC pipe	1	PVC pipe	4 inches	Coil former	$1.10 for 2 pcs																				
+					$19.55																				
+																									
+																									
+																									
+
