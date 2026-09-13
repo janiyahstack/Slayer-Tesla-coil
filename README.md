@@ -26,6 +26,8 @@ The Schematic
 <img width="1920" height="1080" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/b960f753-cce5-4996-b33c-3174aa5d9fca" />
 
 The CAD
+![Uploading Screenshot (362).png…]()
+
 
 
 
