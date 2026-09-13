@@ -20,6 +20,14 @@ I made the BOM, i looked through Ali Express for stuff, i decided on a battery w
 The BOM
 pandoc -f csv Sheet1.csv -o output.md
 <img width="1920" height="1080" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/06627da4-52c0-413a-8c3a-a9e718d011e8" />
+https://docs.google.com/spreadsheets/d/1osx8s_dKkFnwftt5uLbFzMi76YqxEO74YxG5Nzp4THI/edit?usp=sharing
+
+The Schematic
+<img width="1920" height="1080" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/b960f753-cce5-4996-b33c-3174aa5d9fca" />
+
+The CAD
+
+
 
 																									
 																									
