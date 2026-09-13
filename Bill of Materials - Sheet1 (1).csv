@@ -1,0 +1,14 @@
+Reference,QTY,Component,Value,Notes,Estimated Prices,Link
+Q2,1,NPN Power Transistor,TIP31C,TO-220 Package,$1.10 per 10pcs,https://a.aliexpress.com/_EGoSctg
+R2,1,Resistor,1kohms,Axial,Available,available
+C1,1,Ceramic Capacitor,"100nF, 50v",Radial,$1.10 per 10pcs,https://a.aliexpress.com/_ExHqb2e
+D2,1,Diode,BAV16W,Fast switching,$0.86 for 20pcs,https://a.aliexpress.com/_EG9ENKm
+L1,1,Primary coil,"4 turns, 0.8mm magnet wire",Custom wound,$2.80,https://a.aliexpress.com/_EzIT5KI
+L2,1,Secondary coil,"25 turns, 0.2mm magnet wire",Custom wound,$1.10,https://a.aliexpress.com/_EIRpH5y
+L3,1,Feedback coil,"3 turns, 0.6mm magnet wire",Cusom wound,$1.10,https://a.aliexpress.com/_EIRpH5y
+BT1,1,Power supply,9V Lithium ion battery ,,$1.10,https://a.aliexpress.com/_EwdnAp0
+2 pin screw terminal,2,2-pin screw terminal,2-pin screw terminal,Power input,$1.23,https://a.aliexpress.com/_Eze3ZSI
+Perf Board,1,Perfboard,7*9cm protoboard,Circuit Assembly,$1.10,https://a.aliexpress.com/_EyrP0P4
+Solder iron,1,Solder Iron,USB or mains powered,Required tool,$6.96,https://a.aliexpress.com/_EwgpuvC
+PVC pipe,1,PVC pipe,4 inches,Coil former,$1.10 for 2 pcs,https://a.aliexpress.com/_EzJuh94
+,,,,,$19.55,
