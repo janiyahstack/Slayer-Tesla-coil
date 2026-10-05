@@ -29,6 +29,9 @@ The CAD
 ![]Uploading Screenshot (362).png…()
 
 
+\begin{table}[]
+\centering
+\begin{tabular}{lllllll}
 Reference            & QTY & Component            & Value                       & Notes            & Estimated Prices & Link                               \\
 Q2                   & 1   & NPN Power Transistor & TIP31C                      & TO-220 Package   & \$1.10 per 10pcs & https://a.aliexpress.com/\_EGoSctg \\
 R2                   & 1   & Resistor             & 1kohms                      & Axial            & Available        & available                          \\
@@ -43,7 +46,8 @@ Perf Board           & 1   & Perfboard            & 7*9cm protoboard            
 Solder iron          & 1   & Solder Iron          & USB or mains powered        & Required tool    & \$6.96           & https://a.aliexpress.com/\_EwgpuvC \\
 PVC pipe             & 1   & PVC pipe             & 4 inches                    & Coil former      & \$1.10 for 2 pcs & https://a.aliexpress.com/\_EzJuh94 \\
                      &     &                      &                             &                  & \$19.55          &                                   
-
+\end{tabular}
+\end{table}
 
 
 
